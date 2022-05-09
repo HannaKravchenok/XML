@@ -1,1 +1,13 @@
-
+<xml>
+  <success>true</success>
+  <user>
+    <first_login>false</first_login>
+    <id>431</id>
+    <user_id>431</user_id>
+    <email>user+city@user.com</email>
+    <role>user</role>
+    <name>user city</name>
+    <first_name>user</first_name>
+    <last_name>city</last_name>
+  </user>
+</xml>
